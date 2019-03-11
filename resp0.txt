@@ -1,0 +1,41 @@
+    1  git
+    2  cd
+    3  cd Documents
+    4  git clone https://github.com/IIC2115/Syllabus
+    5  cd Syllabus
+    6  cd ...
+    7  cd ~/Documents
+    8  cd Syllabus
+    9  pwd
+   10  ls
+   11  git add
+   12  git add *
+   13  git pull
+   14  git init L0
+   15  git ~/Documents
+   16  cd ~/Documents
+   17  git clone https://github.com/martinrafols/L0
+   18  cd ~/Documents/Syllabus
+   19  git pull
+   20  git add temp.txt
+   21  git add all
+   22  git add Primer Archivo.txt
+   23  cd ~/Documents/L0
+   24  git add Primer Archivo.txt
+   25  git add *.txt
+   26  git commit -m "Primer Archivo"
+   27  git config--global user.email
+   28  git --help
+   29    git config --global user.email "you@example.com"
+   30    git config --global user.name "Your Name"
+   31  git config --global user.email "mrafols@uc.cl"
+   32  git config global user.name "martinrafols"
+   33  git config --global user.name "martinrafols"
+   34  git commit -m "Primer Archivo"
+   35  git push
+   36  git pull
+   37  doskey /History
+   38  git doskey /History
+   39  doskey /History
+   40  history
+
